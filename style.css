@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h4 {
+    font-size: 20;
+}
+
+.first {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-decoration: none;
+    color: rgb(239, 236, 250);
+    margin-bottom: 20%;
+}
+
+.link {
+    text-decoration: none;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    padding: 10px 40px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+.img {
+    background-image: url(images/donation7.jpg);
+    display: flex;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-bottom: 10%;
+
+}
+
+#mm {
+    font-size: 30px;
+}
+
+#nn {
+    font-size: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.sec {
+    text-align: center;
+    width: 100%;
+    ;
+
+}
+
+.se {
+    margin-bottom: 10%;
+}
+
+.me {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+}
+
+#kk {
+    font-size: 30px;
+}
+
+#ll {
+    font-size: 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.po {
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.op {
+    display: flex;
+    margin-bottom: 100px;
+
+
+}
