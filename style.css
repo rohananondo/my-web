@@ -135,7 +135,7 @@ section {
 .seo {
     width: 50%;
     padding-left: 2%;
-    margin-bottom: 5%;
+    margin-bottom: 10%;
     margin-left: 3%;
     margin-right: 5%;
 }
@@ -149,9 +149,10 @@ section {
     background-color: aquamarine;
     margin-left: 30%;
     margin-right: 30%;
-    margin-bottom: 5%;
-    border-bottom: 10%;
-    border-radius: 30%;
+    margin-bottom: 10%;
+    border-radius: 20%;
+    box-shadow: 10px 10px 40px grey;
+
 }
 
 #we {
@@ -166,21 +167,6 @@ section {
 
 }
 
-.mail {
-    margin: 0;
-    padding: 0;
-    font-size: cover;
-    margin-bottom: 20%;
-
-
-
-}
-
-.email {
-    position: absolute;
-    left: 35%;
-    transform: translate(-50% -50%)
-}
 
 input {
     position: relative;
@@ -193,6 +179,11 @@ input {
     border: none;
     outline: none;
     border-radius: 25% 25% 25% 25%;
+
+}
+
+.no {
+    margin-left: 20%;
 
 }
 
