@@ -15,8 +15,9 @@ h4 {
     margin-left: 20%;
     margin-right: 20%;
     text-decoration: none;
-    color: rgb(239, 236, 250);
+    color: rgb(255, 255, 255);
     margin-bottom: 20%;
+
 }
 
 .link {
@@ -27,6 +28,7 @@ h4 {
     color: rgb(255, 255, 255);
     font-weight: 700;
     border-radius: 10px;
+
 }
 
 .img {
@@ -65,6 +67,7 @@ h4 {
     margin-left: 20%;
     margin-right: 20%;
     margin-bottom: 10%;
+
 }
 
 #kk {
@@ -85,7 +88,8 @@ h4 {
     padding-right: 5%;
     box-shadow: 10px 10px 40px grey;
     border-radius: 50px;
-    text-align: center;
+    text-align: left;
+    background-color: aqua;
 }
 
 .op {
@@ -93,4 +97,37 @@ h4 {
     margin-bottom: 100px;
 
 
+
+}
+
+section {
+    display: flex;
+}
+
+
+.my {
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-decoration: none;
+
+}
+
+
+#lo {
+    font-size: 50px;
+}
+
+#ol {
+    font-size: 15px;
+}
+
+.lin {
+    text-decoration: none;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    padding: 20px 60px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    border-radius: 10px;
 }
